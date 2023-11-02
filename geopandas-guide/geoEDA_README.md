@@ -1,5 +1,4 @@
-
-# Geospatial Analysis with GeoPandas: Boston's WiFi Locations
+# Getting Started With GeoPandas
 
 ## Description
 This Jupyter Notebook performs a geospatial analysis focusing on the WiFi locations around the city of Boston using the GeoPandas library. It demonstrates how to visualize, clean, and manipulate geospatial data effectively.
