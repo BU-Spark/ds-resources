@@ -5,10 +5,10 @@ This Jupyter Notebook performs a geospatial analysis focusing on the WiFi locati
 
 ## Datasets
 
-- 2020 CENSUS TRACTS IN BOSTON dataset, which contains the geographical boundaries of each census tract in Boston.
-- WICKED FREE WIFI LOCATIONS dataset, which contains the geographical location of each free WiFi location in Boston.
+- [2020 CENSUS TRACTS IN BOSTON dataset](https://data.boston.gov/dataset/2020-census-for-boston), which contains the geographical boundaries of each census tract in Boston.
+- [WICKED FREE WIFI LOCATIONS dataset](https://data.boston.gov/dataset/wicked-free-wifi-locations), which contains the geographical location of each free WiFi location in Boston.
 
-**Both datasets can be found in their respective folders in the repository.**
+**Both datasets can also be found in their respective folders in the repository.**
 
 ## Libraries Used
 
